@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend developement
 - 🌱 I’m currently learning php pdo
 - 💞️ I’m looking to collaborate on beautifull web projects
-- 📫 How to reach me :slavicakaraterzieva@gmail.com
+- 📫 How to reach me: slavicakaraterzieva@gmail.com
 
 <!---
 slavicakaraterzieva/slavicakaraterzieva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
